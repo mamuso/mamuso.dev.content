@@ -1,5 +1,5 @@
 ---
-title: Updated papercups.mammuso.net
+title: Updated papercups.mamuso.net
 category: 
 date: "2022-01-21"
 fold: true
