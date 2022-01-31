@@ -14,6 +14,7 @@ Building this little lamp has been awesome! We did a TERRIBLE job casting the re
 ![Casting resin](/assets/posts/resincasting.jpeg)
 
 ---
+
 We also had some time to work on other characters from the game.
 
 ![New Zealand story Characters](/assets/posts/perlernewzealandstory.jpeg)
