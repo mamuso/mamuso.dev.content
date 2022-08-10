@@ -2,6 +2,7 @@
 title: Stray characters
 category: code
 date: '2021-09-01'
+fold: true
 image:
   format: png
   width: 2880

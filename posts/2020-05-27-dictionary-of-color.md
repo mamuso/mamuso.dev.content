@@ -1,5 +1,4 @@
 ---
-title: Sanzo Wada's dictionary of colour combinations
 category: inspiration
 date: '2020-05-27'
 image:
