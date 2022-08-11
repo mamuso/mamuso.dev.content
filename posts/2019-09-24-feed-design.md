@@ -2,6 +2,7 @@
 title: Giving this feed a coat of paint
 category: design
 date: "2019-09-24"
+fold: true
 image:
   format: png
   width: 3360

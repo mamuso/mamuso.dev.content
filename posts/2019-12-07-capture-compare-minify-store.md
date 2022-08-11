@@ -2,6 +2,7 @@
 title: Capture, compare, minify, store
 category: code
 date: '2019-12-07'
+fold: true
 image:
   format: png
   width: 3360

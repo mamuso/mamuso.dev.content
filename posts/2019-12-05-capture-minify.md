@@ -2,6 +2,7 @@
 title: Capture and minify
 category: code
 date: '2019-12-05'
+fold: true
 image:
   format: png
   width: 3360

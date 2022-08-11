@@ -2,6 +2,7 @@
 title: Hi, fluxcapacitor!
 category: code
 date: '2020-04-23'
+fold: true
 image:
   format: png
   width: 3360

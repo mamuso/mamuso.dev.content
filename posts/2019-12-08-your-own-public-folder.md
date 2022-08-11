@@ -2,6 +2,7 @@
 title: Build your own public folder
 category: inspiration
 date: '2019-12-08'
+fold: true
 image:
   format: png
   width: 3360

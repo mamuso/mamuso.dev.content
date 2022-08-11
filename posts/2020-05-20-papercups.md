@@ -2,6 +2,7 @@
 title: Anchorhead, Seattle
 category: draw
 date: "2020-05-20"
+fold: true
 image:
   format: png
   width: 2388

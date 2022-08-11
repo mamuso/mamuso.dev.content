@@ -2,6 +2,7 @@
 title: Automating the hell out of this
 category: code
 date: '2019-09-19'
+fold: true
 image:
   format: png
   width: 3362
