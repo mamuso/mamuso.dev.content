@@ -4,6 +4,6 @@ category:
 date: "2023-03-24"
 ---
 
-It's been a while since I used the Swiss Army Knife metaphor. The idea of a useful, compact, multifunctional and versatile tool that can save the day is so appealing. 
+This week I used the Swiss Army Knife metaphor way too many times. The idea of a useful, compact, multifunctional and versatile tool is very appealing! Imagine a collection of [small, sharp tools](https://brandur.org/small-sharp-tools) at your service.
 
-Maybe I never had a good one. 
+I like the idea of the Swiss army knife more than the actual thing. Maybe I never had a good one. 
