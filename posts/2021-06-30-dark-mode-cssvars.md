@@ -1,8 +1,6 @@
 ---
 title: Light/Dark mode, the CSS-variable way
-category: code
 date: '2021-06-30'
-fold: true
 image:
   format: gif
   width: 1440

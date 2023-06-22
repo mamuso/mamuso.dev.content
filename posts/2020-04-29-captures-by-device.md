@@ -1,8 +1,6 @@
 ---
 title: Showing captures by device
-category: code
 date: '2020-04-29'
-fold: true
 image:
   format: gif
   width: 3360

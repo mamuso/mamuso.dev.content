@@ -1,6 +1,5 @@
 ---
 title: Updated papercups.mamuso.net
-category: 
 date: "2022-01-21"
 fold: true
 ---

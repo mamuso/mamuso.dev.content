@@ -1,8 +1,6 @@
 ---
 title: Drafting interfaces
-category: design
 date: '2020-04-26'
-fold: true
 image:
   format: png
   width: 3360

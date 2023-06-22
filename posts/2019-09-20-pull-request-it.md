@@ -1,8 +1,6 @@
 ---
 title: PR-it!
-category: code
 date: '2019-09-20'
-fold: true
 image:
   format: png
   width: 3362

@@ -1,6 +1,5 @@
 ---
 title: The Swiss Army knife
-category: 
 date: "2023-03-24"
 ---
 
