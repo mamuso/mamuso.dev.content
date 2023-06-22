@@ -1,6 +1,6 @@
 ---
 title: 
-category: notes
+category: note
 date: "2022-08-10"
 ---
 
