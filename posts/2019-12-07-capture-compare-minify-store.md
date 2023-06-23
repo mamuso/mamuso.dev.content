@@ -1,10 +1,9 @@
 ---
 title: Capture, compare, minify, store
 date: '2019-12-07'
-image:
-  format: png
-  width: 3360
-  height: 2100
+basename: "2019-12-07-capture-compare-minify-store.png"
+width: 3360
+height: 2100
 ---
 
 Today was cleanup time. I broke a gigantic index.js into manageable pieces and tried to tidy some of the mess that I did while I was building the concept.

@@ -1,10 +1,9 @@
 ---
 title: Hi, fluxcapacitor!
 date: '2020-04-23'
-image:
-  format: png
-  width: 3360
-  height: 2100
+basename: '2020-04-23-hi-fluxcapacitor.png'
+width: 3360
+height: 2100
 ---
 
 WELL, WELL! Fluxcapacitor (formerly Timesled, I'm the worst naming projects) runs like a charm over GitHub Actions, and I rewrote a big chunk of the code for sustainability:
