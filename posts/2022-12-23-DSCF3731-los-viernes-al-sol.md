@@ -3,7 +3,6 @@ title: 'Los viernes al sol'
 category: photo
 date: '2022-12-23'
 basename: '2022-12-23-DSCF3731'
-category: photo
 camera: 'FUJIFILM X100V'
 iso: 320
 fnumber: 2
