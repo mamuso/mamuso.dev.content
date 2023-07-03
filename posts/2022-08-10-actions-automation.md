@@ -1,5 +1,5 @@
 ---
-Title: Automate everything!
+title: Automate everything!
 category: note
 date: "2022-08-10"
 ---

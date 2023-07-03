@@ -1,6 +1,6 @@
 ---
 title: 
-summary:
+summary: note photo code article
 category: 
 date: "{{date}}"
 image:

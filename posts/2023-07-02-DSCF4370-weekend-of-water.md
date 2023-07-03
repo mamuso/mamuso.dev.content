@@ -1,6 +1,6 @@
 ---
 title: 'Weekend of water'
-date: '2023-07-01'
+date: '2023-07-02'
 basename: '2023-07-01-DSCF4370'
 category: photo
 camera: 'FUJIFILM X100V'
