@@ -1,12 +1,13 @@
 ---
-title: 'Andersen/'s'
+title: Andersen's
 date: '2023-05-29'
 basename: '2023-05-29-DSCF3171'
-category: photocamera: "FUJIFILM X-T5"
+category: photo
+camera: 'FUJIFILM X-T5'
 iso: 250
 fnumber: 1.8
 exposureBiasValue: 0
-exposureTime: "1/5000"
+exposureTime: '1/5000'
 GPSLatitude: 37.109236
 GPSLongitude: 121.017599
 width: 7728

@@ -2,11 +2,12 @@
 title: 'Happy new year!'
 date: '2023-02-20'
 basename: '2023-02-20-DSCF0570'
-category: photocamera: "FUJIFILM X-T5"
+category: photo
+camera: 'FUJIFILM X-T5'
 iso: 125
 fnumber: 1.4
 exposureBiasValue: 0
-exposureTime: "1/640"
+exposureTime: '1/640'
 GPSLatitude: 37.795969
 GPSLongitude: 122.406731
 width: 7728

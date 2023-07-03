@@ -2,11 +2,12 @@
 title: 'Not responsible for shrinkage, fading or other damage'
 date: '2023-06-10'
 basename: '2023-06-10-DSCF3308'
-category: photocamera: "FUJIFILM X-T5"
+category: photo
+camera: 'FUJIFILM X-T5'
 iso: 250
 fnumber: 4.5
 exposureBiasValue: 0.3
-exposureTime: "1/58"
+exposureTime: '1/58'
 GPSLatitude: 37.763255
 GPSLongitude: 122.424181
 width: 7728

@@ -2,11 +2,12 @@
 title: 'Coworking'
 date: '2023-04-05'
 basename: '2023-04-05-DSCF1538'
-category: photocamera: "FUJIFILM X-T5"
+category: photo
+camera: 'FUJIFILM X-T5'
 iso: 250
 fnumber: 1.4
 exposureBiasValue: -0.3
-exposureTime: "1/3500"
+exposureTime: '1/3500'
 GPSLatitude: 47.622847
 GPSLongitude: 122.354992
 width: 7728

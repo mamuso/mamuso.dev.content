@@ -2,11 +2,12 @@
 title: 'Umbrellas'
 date: '2022-12-23'
 basename: '2022-12-23-DSCF3748'
-category: photocamera: "FUJIFILM X100V"
+category: photo
+camera: 'FUJIFILM X100V'
 iso: 160
 fnumber: 2
 exposureBiasValue: 0.3
-exposureTime: "1/7000"
+exposureTime: '1/7000'
 GPSLatitude: 37.795494
 GPSLongitude: 122.393511
 width: 6240

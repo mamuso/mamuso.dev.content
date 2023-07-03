@@ -2,11 +2,12 @@
 title: 'Best. Film Class. Ever!'
 date: '2023-06-25'
 basename: '2023-06-25-DSCF4303'
-category: photocamera: "FUJIFILM X100V"
+category: photo
+camera: 'FUJIFILM X100V'
 iso: 320
 fnumber: 4
 exposureBiasValue: -0.3
-exposureTime: "1/2700"
+exposureTime: '1/2700'
 GPSLatitude: 37.869164
 GPSLongitude: 122.259233
 width: 6240

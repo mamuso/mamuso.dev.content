@@ -2,11 +2,12 @@
 title: 'Weekend of water'
 date: '2023-07-01'
 basename: '2023-07-01-DSCF4370'
-category: photocamera: "FUJIFILM X100V"
+category: photo
+camera: 'FUJIFILM X100V'
 iso: 320
 fnumber: 2
 exposureBiasValue: 0
-exposureTime: "1/900"
+exposureTime: '1/900'
 GPSLatitude: 38.499944
 GPSLongitude: 122.997089
 width: 6240
@@ -14,7 +15,7 @@ height: 4160
 colorPalette: ['#88acb4', '#21251d', '#535a41', '#cdd4cb', '#365c6c']
 ---
 
-We 
+We
 
 <div class='photo-gallery'>
 ![](/assets/posts/DSCF4372.jpeg)

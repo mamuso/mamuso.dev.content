@@ -1,12 +1,13 @@
 ---
-title: 'The alarm didn\'t sound'
+title: The alarm didn't sound
 date: '2023-04-04'
 basename: '2023-04-04-DSCF1470'
-category: photocamera: "FUJIFILM X-T5"
+category: photo
+camera: 'FUJIFILM X-T5'
 iso: 250
 fnumber: 2.5
 exposureBiasValue: -0.3
-exposureTime: "1/1000"
+exposureTime: '1/1000'
 GPSLatitude: 45.511892
 GPSLongitude: 122.651301
 width: 7728
