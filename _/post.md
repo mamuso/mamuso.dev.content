@@ -1,7 +1,6 @@
 ---
 title: 
-summary: note photo code article
-category: 
+category: note photo code article
 date: "{{date}}"
 image:
   format: png
