@@ -1,5 +1,5 @@
 ---
-title: 'Not responsible for shrinkage, fading or other damage'
+title: 'Not responsible for shrinkage'
 date: '2023-06-10'
 basename: '2023-06-10-DSCF3308'
 category: photo
