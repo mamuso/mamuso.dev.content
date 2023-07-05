@@ -1,7 +1,7 @@
 ---
 title: 'Best. Film Class. Ever!'
 date: '2023-06-25'
-basename: '2023-06-25-DSCF4303'
+basename: '2023-06-25-DSCF4303.jpg'
 category: photo
 camera: 'FUJIFILM X100V'
 iso: 320
