@@ -1,7 +1,7 @@
 ---
 title: 'Black and white'
 date: '2022-07-07'
-basename: '2022-07-07-DSCF6424'
+basename: '2022-07-07-DSCF6424.jpg'
 category: photo
 camera: 'FUJIFILM X100V'
 iso: 640

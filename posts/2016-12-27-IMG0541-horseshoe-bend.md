@@ -1,7 +1,7 @@
 ---
 title: 'Horseshoe Bend'
 date: '2016-12-27'
-basename: '2016-12-27-IMG0541'
+basename: '2016-12-27-IMG0541.jpg'
 category: photo
 camera: 'Apple iPhone 6'
 iso: 32

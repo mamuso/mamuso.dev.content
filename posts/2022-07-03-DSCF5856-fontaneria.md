@@ -1,7 +1,7 @@
 ---
 title: 'Fontanería'
 date: '2022-07-03'
-basename: '2022-07-03-DSCF5856'
+basename: '2022-07-03-DSCF5856.jpg'
 category: photo
 camera: 'FUJIFILM X100V'
 iso: 640

@@ -1,7 +1,7 @@
 ---
 title: 'Oregon & Washington'
 date: '2023-04-03'
-basename: '2023-04-03-DSCF1246'
+basename: '2023-04-03-DSCF1246.jpg'
 category: photo
 camera: 'FUJIFILM X-T5'
 iso: 250

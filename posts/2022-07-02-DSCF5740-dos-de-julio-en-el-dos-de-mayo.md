@@ -1,7 +1,7 @@
 ---
 title: 'Dos de Julio en el Dos de Mayo'
 date: '2022-07-02'
-basename: '2022-07-02-DSCF5740'
+basename: '2022-07-02-DSCF5740.jpg'
 category: photo
 camera: 'FUJIFILM X100V'
 iso: 1600

@@ -1,7 +1,7 @@
 ---
 title: 'Finish line'
 date: '2022-08-06'
-basename: '2022-08-06-DSCF7952'
+basename: '2022-08-06-DSCF7952.jpg'
 category: photo
 camera: 'FUJIFILM X100V'
 iso: 640

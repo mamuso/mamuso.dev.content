@@ -1,7 +1,7 @@
 ---
 title: 'Coworking'
 date: '2023-04-05'
-basename: '2023-04-05-DSCF1538'
+basename: '2023-04-05-DSCF1538.jpg'
 category: photo
 camera: 'FUJIFILM X-T5'
 iso: 250

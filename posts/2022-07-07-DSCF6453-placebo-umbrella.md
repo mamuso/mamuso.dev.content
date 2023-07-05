@@ -1,7 +1,7 @@
 ---
 title: 'Placebo umbrella'
 date: '2022-07-07'
-basename: '2022-07-07-DSCF6453'
+basename: '2022-07-07-DSCF6453.jpg'
 category: photo
 camera: 'FUJIFILM X100V'
 iso: 640

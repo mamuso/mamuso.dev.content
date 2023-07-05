@@ -1,7 +1,7 @@
 ---
 title: 'Castillo de la Atalaya'
 date: '2022-07-19'
-basename: '2022-07-19-DSCF7185'
+basename: '2022-07-19-DSCF7185.jpg'
 category: photo
 camera: 'FUJIFILM X100V'
 iso: 640

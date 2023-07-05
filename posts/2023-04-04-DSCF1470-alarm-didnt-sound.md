@@ -1,7 +1,7 @@
 ---
 title: The alarm didn't sound
 date: '2023-04-04'
-basename: '2023-04-04-DSCF1470'
+basename: '2023-04-04-DSCF1470.jpg'
 category: photo
 camera: 'FUJIFILM X-T5'
 iso: 250

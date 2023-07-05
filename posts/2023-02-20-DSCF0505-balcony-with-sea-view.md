@@ -1,7 +1,7 @@
 ---
 title: 'Balcony with sea view'
 date: '2023-02-20'
-basename: '2023-02-20-DSCF0505'
+basename: '2023-02-20-DSCF0505.jpg'
 category: photo
 camera: 'FUJIFILM X-T5'
 iso: 125

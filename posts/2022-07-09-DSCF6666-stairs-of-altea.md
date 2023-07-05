@@ -1,7 +1,7 @@
 ---
 title: 'Stairs of Altea'
 date: '2022-07-09'
-basename: '2022-07-09-DSCF6666'
+basename: '2022-07-09-DSCF6666.jpg'
 category: photo
 amera: 'FUJIFILM X100V'
 iso: 640

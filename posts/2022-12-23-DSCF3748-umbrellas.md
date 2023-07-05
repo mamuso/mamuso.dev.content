@@ -1,7 +1,7 @@
 ---
 title: 'Umbrellas'
 date: '2022-12-23'
-basename: '2022-12-23-DSCF3748'
+basename: '2022-12-23-DSCF3748.jpg'
 category: photo
 camera: 'FUJIFILM X100V'
 iso: 160

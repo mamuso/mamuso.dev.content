@@ -1,7 +1,8 @@
 ---
 title: Drafting interfaces
 date: '2020-04-26'
-basename: "2020-04-26-designing-fluxcapacitor.png"
+category: code
+basename: '2020-04-26-designing-fluxcapacitor.png'
 width: 3360
 height: 2100
 ---

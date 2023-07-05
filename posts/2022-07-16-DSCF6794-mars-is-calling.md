@@ -1,7 +1,7 @@
 ---
 title: 'Mars is calling'
 date: '2022-07-16'
-basename: '2022-07-16-DSCF6794'
+basename: '2022-07-16-DSCF6794.jpg'
 category: photo
 camera: 'FUJIFILM X100V'
 iso: 640

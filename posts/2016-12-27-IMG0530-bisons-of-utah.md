@@ -1,7 +1,7 @@
 ---
 title: 'Bisons of Utah'
 date: '2016-12-27'
-basename: '2016-12-27-IMG0530'
+basename: '2016-12-27-IMG0530.jpg'
 category: photo
 camera: 'Apple iPhone 6'
 iso: 32

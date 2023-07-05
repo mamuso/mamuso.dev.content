@@ -1,7 +1,7 @@
 ---
 title: 'Stop that hat!'
 date: '2022-07-05'
-basename: '2022-07-05-DSCF6049'
+basename: '2022-07-05-DSCF6049.jpg'
 category: photo
 camera: 'FUJIFILM X100V'
 iso: 640

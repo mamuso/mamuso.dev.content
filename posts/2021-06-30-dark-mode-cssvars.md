@@ -1,6 +1,7 @@
 ---
 title: Light/Dark mode, the CSS-variable way
 date: '2021-06-30'
+category: code
 basename: '2021-06-30-dark-mode-cssvars.gif'
 width: 1440
 height: 900

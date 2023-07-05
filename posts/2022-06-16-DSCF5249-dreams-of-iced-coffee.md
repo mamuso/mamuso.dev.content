@@ -1,7 +1,7 @@
 ---
 title: 'Dreams of iced coffee'
 date: '2022-06-16'
-basename: '2022-06-16-DSCF5249'
+basename: '2022-06-16-DSCF5249.jpg'
 category: photo
 camera: 'FUJIFILM X100V'
 iso: 160

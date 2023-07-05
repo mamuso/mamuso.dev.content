@@ -1,7 +1,7 @@
 ---
 title: 'Little boat'
 date: '2022-07-18'
-basename: '2022-07-18-DSCF7093'
+basename: '2022-07-18-DSCF7093.jpg'
 category: photo
 camera: 'FUJIFILM X100V'
 iso: 640

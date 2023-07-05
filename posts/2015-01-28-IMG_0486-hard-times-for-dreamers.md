@@ -1,7 +1,7 @@
 ---
 title: 'Hard times for dreamers'
 date: '2015-01-28'
-basename: '2015-01-28-IMG_0486'
+basename: '2015-01-28-IMG_0486.jpg'
 category: photo
 camera: 'Apple iPhone 6'
 iso: 40

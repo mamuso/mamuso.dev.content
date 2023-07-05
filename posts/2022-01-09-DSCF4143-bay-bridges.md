@@ -1,7 +1,7 @@
 ---
 title: 'Bay Bridge(s)'
 date: '2022-01-09'
-basename: '2022-01-09-DSCF4143'
+basename: '2022-01-09-DSCF4143.jpg'
 category: photo
 camera: 'FUJIFILM X100V'
 iso: 640

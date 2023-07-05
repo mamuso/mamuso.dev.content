@@ -1,7 +1,7 @@
 ---
 title: 'Under the Capitola bridge'
 date: '2022-08-06'
-basename: '2022-08-06-DSCF8130'
+basename: '2022-08-06-DSCF8130.jpg'
 category: photo
 camera: 'FUJIFILM X100V'
 iso: 640

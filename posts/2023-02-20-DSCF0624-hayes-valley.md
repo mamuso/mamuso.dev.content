@@ -1,7 +1,7 @@
 ---
 title: 'Hayes Valley'
 date: '2023-02-20'
-basename: '2023-02-20-DSCF0624'
+basename: '2023-02-20-DSCF0624.jpg'
 category: photo
 camera: 'FUJIFILM X-T5'
 iso: 125
