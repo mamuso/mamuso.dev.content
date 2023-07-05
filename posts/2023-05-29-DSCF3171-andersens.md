@@ -1,7 +1,7 @@
 ---
 title: Andersen's
 date: '2023-05-29'
-basename: '2023-05-29-DSCF3171'
+basename: '2023-05-29-DSCF3171.jpg'
 category: photo
 camera: 'FUJIFILM X-T5'
 iso: 250

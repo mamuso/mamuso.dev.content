@@ -1,7 +1,7 @@
 ---
 title: 'Not responsible for shrinkage'
 date: '2023-06-10'
-basename: '2023-06-10-DSCF3308'
+basename: '2023-06-10-DSCF3308.jpg'
 category: photo
 camera: 'FUJIFILM X-T5'
 iso: 250
