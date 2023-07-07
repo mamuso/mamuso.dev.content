@@ -1,5 +1,5 @@
 ---
-title: 'Hot!'
+title: 'River and beach'
 date: '2023-07-02'
 basename: '2023-07-01-DSCF4370.jpg'
 category: photo
@@ -15,7 +15,7 @@ height: 4160
 colorPalette: ['#88acb4', '#21251d', '#535a41', '#cdd4cb', '#365c6c']
 ---
 
-We
+It's too damn hot!
 
 <div className='photo-gallery'>
 ![](/assets/posts/DSCF4372.jpeg)
