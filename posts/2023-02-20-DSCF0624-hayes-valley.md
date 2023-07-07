@@ -10,7 +10,7 @@ exposureBiasValue: 0
 exposureTime: '1/3000'
 GPSLatitude: 37.776636
 GPSLongitude: 122.424431
-width: 7728
-height: 5152
+width: 5152
+height: 7728
 colorPalette: ['#bdbeb5', '#212521', '#5d5141', '#6c7570', '#625354']
 ---
