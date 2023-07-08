@@ -1,11 +1,18 @@
 ---
 title: A creative take on GitHub Actions
 category: note
-date: "2023-06-15"
+date: '2023-06-15'
 ---
 
-We had an internal design conference at GitHub (LGTM!), and I had fun preparing some slides about creative uses of GitHub Actions. It was great to rescue the "Design tool as CMS" concept.
+This week we had an internal design conference at GitHub. We named it LGTM! (Looks Good To Me). I'm not goingt to give you a lot of details about the great talks that we had because you will soon be able to watch most of them on Youtube.
+
+I had fun preparing some slides about creative uses of GitHub Actions. It was great to talk about my fixation with automation, rescue the "Design tool as CMS" concept, show how to build your own "Wayback machine", and try to get the team excited to automate repetitive tasks.
 
 ![Slide from the deck](/assets/posts/figma-as-cms.png)
 
-The 
+I'm particularly proud about this actual footage of me successfully getting my GitHub Actions to green.
+
+<video width="100%" controls>
+  <source src="/assets/posts/try-and-try-again.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
