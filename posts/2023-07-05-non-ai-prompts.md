@@ -12,8 +12,8 @@ I have been trying to be more intentional about the photos I take, and I always 
 After trying a few times to bring the kids along unsuccessfully, I'm really enjoying [this book](https://aperture.org/books/eyes-open-24-photography-ideas-for-curious-kids/) about prompts for kids. The projects are very affordable, the examples are fantastic, and the layout is beautiful. The kids are already working on a photo-alphabet!
 
 <div className='photo-gallery'>
-![Same but different](/assets/posts/IMG_1056.jpeg)
-![Portraits in disguise](/assets/posts/IMG_1057.jpeg)
+<img alt="Same but different" src="/assets/posts/IMG_1056.jpeg"/>
+<img alt="Portraits in disguise" src="/assets/posts/IMG_1057.jpeg"/>
 </div>
 
 Aperture also publishes ["Seeing things"](https://aperture.org/books/educational/seeing-things-a-kids-guide-to-looking-at-photographs/), which may be, by far, my favorite photography book.

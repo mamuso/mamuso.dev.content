@@ -18,7 +18,7 @@ colorPalette: ['#88acb4', '#21251d', '#535a41', '#cdd4cb', '#365c6c']
 It's too damn hot!
 
 <div className='photo-gallery'>
-![](/assets/posts/DSCF4372.jpeg)
-![](/assets/posts/DSCF4394.jpeg)
-![](/assets/posts/DSCF4433.jpeg)
+<img src="/assets/posts/DSCF4372.jpeg"/>
+<img src="/assets/posts/DSCF4394.jpeg"/>
+<img src="/assets/posts/DSCF4433.jpeg"/>
 </div>

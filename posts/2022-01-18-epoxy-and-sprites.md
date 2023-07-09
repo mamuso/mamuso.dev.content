@@ -5,11 +5,9 @@ category: note
 ---
 
 <div className='photo-gallery'>
-
-![Tiki lamp finished](/assets/posts/tikilampfinished.jpeg)
-![Casting resin](/assets/posts/resincasting.jpeg)
-![New Zealand story Characters](/assets/posts/perlernewzealandstory.jpeg)
-
+<img alt="Tiki lamp finished" src="/assets/posts/tikilampfinished.jpeg"/>
+<img alt="Casting resin" src="/assets/posts/resincasting.jpeg"/>
+<img alt="New Zealand story Characters" src="/assets/posts/perlernewzealandstory.jpeg"/>
 </div>
 
 Building this little lamp has been awesome! We did a TERRIBLE job casting the resin, and the finish of the piece could be a lot better. But now Marco and Alex have the coolest resin lamp 💖
