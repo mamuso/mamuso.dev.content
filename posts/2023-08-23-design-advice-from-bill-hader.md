@@ -1,10 +1,10 @@
 ---
-title: Design advice from Bill Harder
+title: Design advice from Bill Hader
 category: note
 date: '2023-08-23'
 ---
 
-A few days ago, I came across [this video](https://youtube.com/clip/Ugkxk8No7rSd3qel18hSzw5_uDMHQQzjre78?si=8YwW1NIuLPzQkbTk) of Bill Harder; I'd gladly reference the source, but I honestly can't pinpoint where I found it.
+A few days ago, I came across [this video](https://youtube.com/clip/Ugkxk8No7rSd3qel18hSzw5_uDMHQQzjre78?si=8YwW1NIuLPzQkbTk) of Bill Hader; I'd gladly reference the source, but I honestly can't pinpoint where I found it.
 
 <div class="video-embed">
 <iframe class="video" src="https://www.youtube.com/embed/766IQ3nkR3Y?si=oQU4IEqaDh6EASSL&amp;clip=Ugkxk8No7rSd3qel18hSzw5_uDMHQQzjre78&amp;clipt=ELqfJhjp3yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
