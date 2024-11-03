@@ -39,6 +39,7 @@ The ingredients are for a 2kin pan (the one we have 😅)
 20. When you have 30 minutes of proofing time left, start preheating the oven to 425ºF (220ºC).
 21. To make a flat-topped loaf, let the dough rise to 75–80% of the height of the mold. To make a round-topped loaf, let the dough rise to 85–90% of the height of the mold. 
 22. For the flat-topped loaf, lower the oven temperature to 415ºF (210ºC) and bake for 25–30 minutes. For the round-topped loaf, lower the oven temperature to 385ºF (195ºC) and bake for 30 minutes. 
+23. Enjoy!
 
 
 
