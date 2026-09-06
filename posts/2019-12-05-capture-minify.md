@@ -1,7 +1,7 @@
 ---
 title: Capture and minify
 date: '2019-12-05'
-category: code
+category: note
 basename: '2019-12-05-capture-minify.png'
 width: 3360
 height: 2056

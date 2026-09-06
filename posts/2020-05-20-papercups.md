@@ -2,7 +2,7 @@
 title: Anchorhead, Seattle
 date: '2020-05-20'
 basename: '2020-05-20-papercups.png'
-category: code
+category: note
 width: 2388
 height: 1668
 ---

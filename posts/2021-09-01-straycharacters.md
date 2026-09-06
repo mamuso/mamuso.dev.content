@@ -4,6 +4,7 @@ date: '2021-09-01'
 basename: '2021-09-01-straycharacters.png'
 width: 2880
 height: 1750
+category: note
 ---
 
 I have tried to merge all my photo collections in a single place for months. Photo storage services make data export incredibly frustrating. Some services send you images and metadata in different files, and it is up to you to merge that information.

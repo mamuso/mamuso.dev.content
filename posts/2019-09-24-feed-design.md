@@ -1,7 +1,7 @@
 ---
 title: Giving this feed a coat of paint
 date: '2019-09-24'
-category: code
+category: note
 basename: '2019-09-24-feed-design.png'
 width: 3360
 height: 2054

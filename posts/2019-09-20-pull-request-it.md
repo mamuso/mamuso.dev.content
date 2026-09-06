@@ -1,7 +1,7 @@
 ---
 title: PR-it!
 date: '2019-09-20'
-category: code
+category: note
 basename: '2019-09-20-pull-request-it.png'
 width: 3362
 height: 2056

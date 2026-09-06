@@ -2,7 +2,7 @@
 title: Capture, compare, minify, store
 date: '2019-12-07'
 basename: '2019-12-07-capture-compare-minify-store.png'
-category: code
+category: note
 width: 3360
 height: 2100
 ---

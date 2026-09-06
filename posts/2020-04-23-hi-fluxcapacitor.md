@@ -2,7 +2,7 @@
 title: Hi, fluxcapacitor!
 date: '2020-04-23'
 basename: '2020-04-23-hi-fluxcapacitor.png'
-category: code
+category: note
 width: 3360
 height: 2100
 ---
