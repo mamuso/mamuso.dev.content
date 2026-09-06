@@ -1,4 +1,5 @@
 ---
+slug: 2022-07-18-little-boat
 title: 'Little boat'
 date: '2022-07-18'
 basename: '2022-07-18-DSCF7093.jpg'

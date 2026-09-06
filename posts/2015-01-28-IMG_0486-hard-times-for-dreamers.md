@@ -1,4 +1,5 @@
 ---
+slug: 2015-01-28-hard-times-for-dreamers
 title: 'Hard times for dreamers'
 date: '2015-01-28'
 basename: '2015-01-28-IMG_0486.jpg'

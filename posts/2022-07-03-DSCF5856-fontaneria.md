@@ -1,4 +1,5 @@
 ---
+slug: 2022-07-03-fontaneria
 title: 'Fontanería'
 date: '2022-07-03'
 basename: '2022-07-03-DSCF5856.jpg'

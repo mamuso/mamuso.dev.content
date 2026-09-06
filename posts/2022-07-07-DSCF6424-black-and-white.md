@@ -1,4 +1,5 @@
 ---
+slug: 2022-07-07-black-and-white
 title: 'Black and white'
 date: '2022-07-07'
 basename: '2022-07-07-DSCF6424.jpg'

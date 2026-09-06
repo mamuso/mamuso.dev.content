@@ -1,4 +1,5 @@
 ---
+slug: 2023-10-01-venetian-blinds
 title: 'Venetian Blinds'
 date: '2023-10-01'
 basename: '2023-10-01-IMG_1565.jpg'

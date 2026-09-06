@@ -1,4 +1,5 @@
 ---
+slug: 2022-06-16-dreams-of-iced-coffee
 title: 'Dreams of iced coffee'
 date: '2022-06-16'
 basename: '2022-06-16-DSCF5249.jpg'

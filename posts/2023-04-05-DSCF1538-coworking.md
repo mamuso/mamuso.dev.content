@@ -1,4 +1,5 @@
 ---
+slug: 2023-04-05-coworking
 title: 'Coworking'
 date: '2023-04-05'
 basename: '2023-04-05-DSCF1538.jpg'

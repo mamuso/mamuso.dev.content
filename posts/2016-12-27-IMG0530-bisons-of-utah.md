@@ -1,4 +1,5 @@
 ---
+slug: 2016-12-27-bisons-of-utah
 title: 'Bisons of Utah'
 date: '2016-12-27'
 basename: '2016-12-27-IMG0530.jpg'

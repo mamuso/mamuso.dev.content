@@ -1,4 +1,5 @@
 ---
+slug: 2023-08-12-please-no-mail
 title: 'Please, no mail'
 date: '2023-08-12'
 basename: '2023-08-12-DSCF4121.jpg'

@@ -1,4 +1,5 @@
 ---
+slug: 2022-07-09-stairs-of-altea
 title: 'Stairs of Altea'
 date: '2022-07-09'
 basename: '2022-07-09-DSCF6666.jpg'

@@ -1,4 +1,5 @@
 ---
+slug: 2023-06-10-not-responsible-for-shrinkage
 title: 'Not responsible for shrinkage'
 date: '2023-06-10'
 basename: '2023-06-10-DSCF3308.jpg'

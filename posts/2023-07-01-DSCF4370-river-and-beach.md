@@ -1,4 +1,5 @@
 ---
+slug: 2023-07-01-river-and-beach
 title: 'River and beach'
 date: '2023-07-01'
 basename: '2023-07-01-DSCF4370.jpg'
