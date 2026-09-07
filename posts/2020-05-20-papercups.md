@@ -7,4 +7,4 @@ width: 2388
 height: 1668
 ---
 
-It's been a while without drawing [papercups](https://papercups.mamuso.net). I had so much fun with this one.
+It’s been a while since I last drew a paper cup for [Papercups](https://papercups.mamuso.net). I had so much fun with this one.

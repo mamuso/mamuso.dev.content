@@ -10,6 +10,6 @@ category: note
 <img alt="New Zealand story Characters" src="/assets/posts/perlernewzealandstory.jpeg"/>
 </div>
 
-Building this little lamp has been awesome! We did a TERRIBLE job casting the resin, and the finish of the piece could be a lot better. But now Marco and Alex have the coolest resin lamp 💖
+Building this little lamp has been awesome! We did a TERRIBLE job casting the resin, and the finish could be a lot better. But now Marco and Alex have the coolest resin lamp 💖
 
-We also had some time to work on other characters from the game.
+We also had some time to work on other characters from The NewZealand Story.

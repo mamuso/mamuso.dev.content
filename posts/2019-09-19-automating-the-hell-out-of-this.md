@@ -7,6 +7,6 @@ width: 3362
 height: 2056
 ---
 
-I want GitHub to have a pull request ready every day when I arrive home. That should help me to overcome the repetitive part of keeping this project alive 🎉.
+I want GitHub to have a pull request ready every day when I get home. That should take some of the repetitive work out of keeping this project alive. 🎉
 
-Will post about it once it is ready.
+I’ll write about it once it’s ready.
