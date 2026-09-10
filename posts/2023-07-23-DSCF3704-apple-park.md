@@ -1,6 +1,6 @@
 ---
 slug: 2023-07-23-apple-park
-title: Apple Park
+title: Sun and wood
 date: '2023-07-23'
 basename: 2023-07-23-DSCF3704.jpg
 category: photo

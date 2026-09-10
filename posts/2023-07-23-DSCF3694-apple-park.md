@@ -7,7 +7,7 @@ exposureBiasValue: 0
 GPSLatitude: 37.3234
 GPSLongitude: -122.038406
 exposureTime: 1/3000
-title: Apple Park — 3
+title: Virtual Apple Park
 slug: 2023-07-23-apple-park-3
 category: photo
 basename: 2023-07-23-DSCF3694.jpg

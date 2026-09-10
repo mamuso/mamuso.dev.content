@@ -7,7 +7,7 @@ exposureBiasValue: 0
 GPSLatitude: 37.332944
 GPSLongitude: -122.005272
 exposureTime: 1/2200
-title: Apple Park — 4
+title: Rounded corners
 slug: 2023-07-23-apple-park-4
 category: photo
 basename: 2023-07-23-DSCF3725.jpg

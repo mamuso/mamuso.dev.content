@@ -7,7 +7,7 @@ exposureBiasValue: 0
 GPSLatitude: 37.332911
 GPSLongitude: -122.005339
 exposureTime: 1/900
-title: Apple Park — 2
+title: Apple Staircase
 slug: 2023-07-23-apple-park-2
 category: photo
 basename: 2023-07-23-DSCF3709.jpg
