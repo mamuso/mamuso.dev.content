@@ -14,6 +14,6 @@ WELL, WELL! Fluxcapacitor (formerly Timesled, I’m terrible at naming projects)
 - It took 1h 32m to finish
 - The next run will process over 140 endpoints
 
-The infra is more sophisticated than a few months ago. The images and the tgzs of the captures are blobs in Azure, and Prisma 2 handles the data layer.
+The infra is more sophisticated than it was a few months ago. The images and the tgzs of the captures are blobs in Azure, and Prisma 2 handles the data layer.
 
 I'm really happy with the progress so far :)

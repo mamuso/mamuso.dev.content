@@ -35,7 +35,7 @@ element {
 
 **And that’s it!** Your website will react to the user's color theme preference.
 
-You can play with a simple but functional example in [this CodePen](https://codepen.io/mamuso/pen/jOmEjeQ); fidget with your OS appearance preferences to see colors change. This foundation also works like a charm in more complex scenarios:
+You can play with a simple but functional example in [this CodePen](https://codepen.io/mamuso/pen/jOmEjeQ); switch your OS appearance setting to see the colors change. This foundation also works like a charm in more complex scenarios:
 
 - Check [Joshua Comeau's post](https://www.joshwcomeau.com/react/dark-mode/). He implements light/dark mode in Gatsby using CSS variables.
 - Or [this example](https://github.com/mamuso/nextjs-simple-darkmode) using CSS variables with Next.js and styled-components.
