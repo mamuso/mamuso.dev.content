@@ -4,7 +4,7 @@ category: note
 date: '2023-08-23'
 ---
 
-A few days ago, I came across [this video](https://youtube.com/clip/Ugkxk8No7rSd3qel18hSzw5_uDMHQQzjre78?si=8YwW1NIuLPzQkbTk) of Bill Hader. I wish I could remember who shared it with me.
+A few days ago, I watched across [this video](https://youtube.com/clip/Ugkxk8No7rSd3qel18hSzw5_uDMHQQzjre78?si=8YwW1NIuLPzQkbTk) of Bill Hader. I wish I could remember who shared it with me.
 
 <div class="video-embed">
 <iframe class="video" src="https://www.youtube.com/embed/766IQ3nkR3Y?si=oQU4IEqaDh6EASSL&amp;clip=Ugkxk8No7rSd3qel18hSzw5_uDMHQQzjre78&amp;clipt=ELqfJhjp3yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
