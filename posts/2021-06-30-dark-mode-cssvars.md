@@ -9,7 +9,7 @@ height: 900
 
 Choosing colors is hard. Respecting your visitors’ color preferences shouldn’t be.
 
-For this short recipe, you will need a couple of ingredients: [CSS variables](https://www.w3.org/TR/css-variables-1/) and the media feature [`prefers-color-scheme`](https://www.w3.org/TR/mediaqueries-5/#prefers-color-scheme).
+You need two things: [CSS variables](https://www.w3.org/TR/css-variables-1/) and the media feature [`prefers-color-scheme`](https://www.w3.org/TR/mediaqueries-5/#prefers-color-scheme).
 
 1. You can define your color variables and their values for light (default) and dark modes in your CSS file:
 

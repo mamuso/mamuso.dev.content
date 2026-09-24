@@ -24,4 +24,4 @@ photoStackTitle: Apple Visitor Center
 photoStackOrder: 2
 ---
 
-We checked the Apple Visitor Center close to Apple Park. The place is beautiful and I truly fell in love with the stairs. Some of the pictures feel straight out of a render engine 😳
+I fell in love with the stairs at the Apple Visitor Center, next to Apple Park. Some of the pictures feel straight out of a render engine 😳

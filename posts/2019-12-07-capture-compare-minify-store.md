@@ -7,6 +7,6 @@ width: 3360
 height: 2100
 ---
 
-Today was cleanup time. I broke a gigantic `index.js` into manageable pieces and tried to tidy up some of the mess I made while I was building the concept.
+Today was cleanup time. I broke a gigantic `index.js` into manageable pieces and tidied up the mess I made while I was building the concept.
 
-I made some progress with the storage, and I have a few ideas for abstracting different storage providers. I'd love to start capturing screenshots three times a week so I have data to feed into the project’s frontend.
+Storage is moving along, and I have ideas for abstracting different storage providers. I'd love to start capturing screenshots three times a week so I have data to feed into the project’s frontend.
