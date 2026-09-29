@@ -26,13 +26,13 @@ Anyway, at the time I was too busy, so the cartridges went on the shelf where I 
 
 ---
 
-### Physical therapy, but with shaders
+### Rehab, but with shaders
 
 Fast-forward to the end of June, my last day at what I considered the best job I'd ever have. I was in London, surrounded by family and friends who were thrilled for me, and I was the only one in the room not having a great time. I felt like I was walking out on an incredible team. I kept replaying months of decisions in my head, and I couldn't shake the feeling that I'd let a bunch of folks down.
 
 And to be clear, I was (am!) extremely lucky. I had an incredible job waiting for me, and I knew it. My brain just didn't care, and I couldn't feel any of it yet.
 
-In the meantime, I had some time, and there was a perfectly good idea sitting on a shelf. I decided to give it thirty minutes every night, sometimes an hour. Mostly to get some creative muscles back.
+I had some time in my hands, and there was a perfectly good idea sitting on a shelf. I decided to give it thirty minutes every night, sometimes an hour. Mostly to get some creative muscles back.
 
 ---
 
