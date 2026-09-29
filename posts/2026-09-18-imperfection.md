@@ -2,30 +2,49 @@
 title: Imperfection
 slug: imperfection
 category: note
-date: '2026-09-28'
+date: '2026-09-29'
 ---
 
-If you are reading this, I regret to inform you that I finally published an update to my personal site. I guess I made it.
+If you're reading this, I regret to inform you that I finally published an update to my personal site. I guess I made it.
 
-This is one of these cases where the journey is a lot better than the destination. This is not a product that you can't wait to put in the hands of customers; absolutely nobody cares about this little personal corner of the internet. And still, savoring and sharing every single step of the way to get here felt fun and exciting. 
+This is one of the cases where the journey was a lot better than the destination. To be fair, the destination is a personal site, and I've seen the traffic. Nobody was waiting for this. And I had a blast anyway.
 
 ---
-A few months ago, I pitched a couple of friends on a personal site made out of fake cartridges. My CV would be They were very supportive, which didn't help. I knew it would be a lot of work and a lot to learn, and when I did the math, I had to put it away.
 
+### The Shelf
 
-Nothing in this site is particularly original. Sometime around 2008, maybe 2009, I spent a lot of time on the YayHooray forum. I vividly remember a thread about the [My Famicase Exhibition](https://famicase.com/chronicle/index.html), an event run by a retro game shop in Tokyo called [METEOR](https://super-meteor.com/). Designers from all over were making labels for games that didn't exist, hoping to get picked for the show. I never submitted one. But for years, Famicase labels kept popping up on Dribbble and Behance. Almost twenty years later, [the exhibition is still going](https://famicase.com/).
+A few months ago, I pitched a couple of friends this idea of turning my site into a shelf of fake game cartridges, one per job. They were very supportive, which is exactly what you don't want when you're trying to talk yourself out of something.
+
+None of this is original. Around 2008, maybe 2009, I spent a lot of time on the YayHooray forum, where I found the [My Famicase Exhibition](https://famicase.com/chronicle/index.html). A retro game shop in Tokyo called [METEOR](https://super-meteor.com/) invites designers to make labels for games that don't exist, and picks the best for a show. I never submitted anything, so technically I'm undefeated. Still, for years, every time a Famicase label popped up on Dribbble or Behance, I had to stop and look, like running into an ex who's doing really well. [The exhibition is still going](https://famicase.com/).
 
 <figure>
   <img src="/assets/posts/imperfection-myfamicaseexhibition.png" alt="Sixteen My Famicase Exhibition entries: colorful Famicom cartridges with labels for games that do not exist" width="2398" height="1634" loading="lazy" />
   <figcaption>A few Famicase entries</figcaption>
 </figure>
 
+Anyway, at the time I was too busy, so the cartridges went on the shelf where I keep the ideas I'll never work on.
+
 ---
 
-Not long after, I hit a slow patch. I needed to stay busy, and there was a perfectly good idea sitting on a shelf. So every night, I gave it thirty minutes, sometimes an hour. Less to build a site, more to get some of the muscles back. Physical therapy, but with shaders.
+### Physical therapy, but with shaders
 
-Those nights added up, and one day I had a proof of concept. It was technically lacking and rigid as fuck, but it was "done," and naturally, I lost interest again. Instead of fixing it, I went back to the labels, just to learn a bit more about light and materials. I even tried animating them, which sounded way cooler in my head. Around the same time, I started a new job, and the cartridges finally had a real use: announcing it.
+Fast-forward to the end of June, my last day at what I considered the best job I'd ever have. I was in London, surrounded by family and friends who were thrilled for me, and I was the only one in the room not having a great time. I felt like I was walking out on an incredible team. I kept replaying months of decisions in my head, and I couldn't shake the feeling that I'd let a bunch of folks down.
 
+And to be clear, I was (am!) extremely lucky. I had an incredible job waiting for me, and I knew it. My brain just didn't care, and I couldn't feel any of it yet.
+
+In the meantime, I had some time, and there was a perfectly good idea sitting on a shelf. I decided to give it thirty minutes every night, sometimes an hour. Mostly to get some creative muscles back.
+
+---
+
+### Felt cute, might share later
+
+Those nights added up, and one day the cartridge escaped Blender and landed on a web page. It was technically lacking and rigid AF, but it was "done."
+
+I tried to make a fun label for each job. I still chuckle when I think about the [Windows 95 floppy disk reference](https://archive.org/details/windows-95_202208). Some were easy. But try making Azure DevOps fun as a Famicom label.
+
+I spent a lot of nights trying to make plastic look like plastic. I even tried animating them. In my head, it was a Pixar short, but on screen it was a PowerPoint transition.
+
+None of my experiments were exceptional. And that made it easy to share. Unfinished work is a lot more fun to post. In the end, nobody expects anything from a work in progress.
 
 <Gallery layout="row" columns="2" caption="Labels, labels, labels">
   <img src="/assets/posts/imperfection-blender.png" alt="The model in blender" width="1920" height="1080" loading="lazy" />
@@ -34,11 +53,19 @@ Those nights added up, and one day I had a proof of concept. It was technically 
   <video src="/assets/posts/imperfection-animated.mp4" alt="Animated labels" width="1280" height="720" loading="lazy"></video>
 </Gallery>
 
-Something about Cursor.
+Here's the thing about staring at the same litte idea every night for two weeks: it gets less exciting (I think this is true of most things). I also knew that making it actually run well on a real website, on a real phone, for real people, was going to take way more nights than I had in me. 
 
-<Gallery layout="row" width="text">
+On the other hand, a fake Famicom cartridge is a pretty good way to announce a real job. All that work finally had somewhere to go.
+
+<Gallery layout="row" width="text" caption="Joined Cursor!">
   <video src="/assets/posts/imperfection-cursor.mp4" alt="Joining Cursor" width="1920" height="1080" loading="lazy"></video>
 </Gallery>
+
+---
+
+### Rome wasn't built in 35-minute sessions
+
+A nice side effect of oversharing and having a good support network is that 
 
 
 About a month later, I made peace with the idea that the cartridges would make a good hero for the site. It worked, but it felt very rigid. I even joked about prototyping it in real life, and the analog version already had better spacing.
@@ -107,6 +134,9 @@ Thanks for reading.
   <summary>The whole build, in tweets</summary>
   <ol>
     <li>Jul 6 · <a href="https://x.com/mamuso/status/2073980800723538214">work / play</a></li>
+    <li>Jul 7 · <a href="https://x.com/mamuso/status/2074347034753339804">I may have been a little too excited for this one 😂</a></li>
+    <li>Jul 8 · <a href="https://x.com/mamuso/status/2074877542407033270">Trying something a little different for AzDo</a></li>
+    <li>Jul 9 · <a href="https://x.com/mamuso/status/2075173680825724960">Old game! 10/10, would absolutely play again.</a></li>
     <li>Jul 12 · <a href="https://x.com/mamuso/status/2076206249927139444">A few labels still need work, but it’s really starting to come together.</a></li>
     <li>Jul 13 · <a href="https://x.com/mamuso/status/2076521410651128255">Animated labels sounded way cooler in my head…</a></li>
     <li>Jul 14 · <a href="https://x.com/mamuso/status/2077081103475900591">Joining Cursor</a></li>
