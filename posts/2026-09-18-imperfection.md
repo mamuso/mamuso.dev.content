@@ -32,7 +32,7 @@ Fast-forward to the end of June, my last day at what I considered the best job I
 
 And to be clear, I was (am!) extremely lucky. I had an incredible job waiting for me, and I knew it. My brain just didn't care, and I couldn't feel any of it yet.
 
-I had some time in my hands, and there was a perfectly good idea sitting on a shelf. I decided to give it thirty minutes every night, sometimes an hour. Mostly to get some creative muscles back.
+I had some time in my hands, and there was a perfectly good idea sitting on a shelf. I decided to give it thirty minutes every night, sometimes an hour. Mostly to get some creative muscles back and have some fun.
 
 ---
 
@@ -65,7 +65,7 @@ On the other hand, a fake Famicom cartridge is a pretty good way to announce a r
 
 ### Rome wasn't built in 35-minute sessions
 
-A nice side effect of oversharing and having a good support network is that you get a lot of questions.  
+If you overshare long enough and your friends are kind enough, you eventually run out of excuses. I made peace with the idea that the cartridges would make a good hero for the site and started building it.
 
 
 About a month later, I made peace with the idea that the cartridges would make a good hero for the site. It worked, but it felt very rigid. I even joked about prototyping it in real life, and the analog version already had better spacing.
