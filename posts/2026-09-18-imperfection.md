@@ -38,7 +38,7 @@ In the meantime, I had some time, and there was a perfectly good idea sitting on
 
 ### Felt cute, might share later
 
-Those nights added up, and one day the cartridge escaped Blender and landed on a web page. It was technically lacking and rigid AF, but it was "done."
+Those nights added up, and one day the cartridge escaped Blender and landed on a web page. It was technically lacking but it was "done."
 
 I tried to make a fun label for each job. I still chuckle when I think about the [Windows 95 floppy disk reference](https://archive.org/details/windows-95_202208). Some were easy. But try making Azure DevOps fun as a Famicom label.
 
@@ -65,7 +65,7 @@ On the other hand, a fake Famicom cartridge is a pretty good way to announce a r
 
 ### Rome wasn't built in 35-minute sessions
 
-A nice side effect of oversharing and having a good support network is that 
+A nice side effect of oversharing and having a good support network is that you get a lot of questions.  
 
 
 About a month later, I made peace with the idea that the cartridges would make a good hero for the site. It worked, but it felt very rigid. I even joked about prototyping it in real life, and the analog version already had better spacing.
