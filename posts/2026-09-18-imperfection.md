@@ -5,17 +5,20 @@ category: note
 date: '2026-09-28'
 ---
 
-Sometime around 2008, maybe 2009, I spent a lot of time on the YayHooray forum. I vividly remember a thread about the [My Famicase Exhibition](https://famicase.com/chronicle/index.html), an event run by a retro game shop in Tokyo called [METEOR](https://super-meteor.com/). Designers from all over were making labels for games that didn't exist, hoping to get picked for the show.
+If you are reading this, I regret to inform you that I finally published an update to my personal site. I guess I made it.
 
-I never submitted one. But for years, Famicase labels kept popping up on Dribbble and Behance. Almost twenty years later, [the exhibition is still going](https://famicase.com/).
+This is one of these cases where the journey is a lot better than the destination. This is not a product that you can't wait to put in the hands of customers; absolutely nobody cares about this little personal corner of the internet. And still, savoring and sharing every single step of the way to get here felt fun and exciting. 
+
+---
+A few months ago, I pitched a couple of friends on a personal site made out of fake cartridges. My CV would be They were very supportive, which didn't help. I knew it would be a lot of work and a lot to learn, and when I did the math, I had to put it away.
+
+
+Nothing in this site is particularly original. Sometime around 2008, maybe 2009, I spent a lot of time on the YayHooray forum. I vividly remember a thread about the [My Famicase Exhibition](https://famicase.com/chronicle/index.html), an event run by a retro game shop in Tokyo called [METEOR](https://super-meteor.com/). Designers from all over were making labels for games that didn't exist, hoping to get picked for the show. I never submitted one. But for years, Famicase labels kept popping up on Dribbble and Behance. Almost twenty years later, [the exhibition is still going](https://famicase.com/).
 
 <figure>
   <img src="/assets/posts/imperfection-myfamicaseexhibition.png" alt="Sixteen My Famicase Exhibition entries: colorful Famicom cartridges with labels for games that do not exist" width="2398" height="1634" loading="lazy" />
   <figcaption>A few Famicase entries</figcaption>
 </figure>
-
-A few months ago, I pitched a couple of friends on a personal site made out of fake cartridges. They were very supportive, which didn't help. I knew it would be a lot of work and a lot to learn, and when I did the math, I had to put it away.
-
 
 ---
 
