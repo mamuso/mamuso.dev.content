@@ -26,13 +26,13 @@ Anyway, at the time I was too busy, so the cartridges went on the shelf where I 
 
 ---
 
-### Rehab, but with shaders
+### Creative therapy, but with shaders
 
 Fast-forward to the end of June, my last day at what I considered the best job I'd ever have. I was in London, surrounded by family and friends who were thrilled for me, and I was the only one in the room not having a great time. I felt like I was walking out on an incredible team. I kept replaying months of decisions in my head, and I couldn't shake the feeling that I'd let a bunch of folks down.
 
 And to be clear, I was (am!) extremely lucky. I had an incredible job waiting for me, and I knew it. My brain just didn't care, and I couldn't feel any of it yet.
 
-I had some time in my hands, and there was a perfectly good idea sitting on a shelf. I decided to give it thirty minutes every night, sometimes an hour. Mostly to get some creative muscles back and have some fun.
+I had time on my hands and a perfectly good idea collecting dust on a shelf. So I started giving it thirty minutes every night, sometimes an hour. Mostly, I wanted to clear my head and remember what making something for fun felt like.
 
 ---
 
@@ -63,31 +63,30 @@ On the other hand, a fake Famicom cartridge is a pretty good way to announce a r
 
 ---
 
-### Rome wasn't built in 35-minute sessions
+### Tilted
 
-If you overshare long enough and your friends are kind enough, you eventually run out of excuses. I made peace with the idea that the cartridges would make a good hero for the site and started building it.
+If you overshare long enough and your friends are kind enough, you eventually run out of excuses. So I gave in and started turning the cartridges into the hero of the site.
 
+Nobody tells you how unglamorous this part is. Most nights went into making the model smaller and fighting the renderer, which fought back harder than I expected and, honestly, won most rounds. 
 
-About a month later, I made peace with the idea that the cartridges would make a good hero for the site. It worked, but it felt very rigid. I even joked about prototyping it in real life, and the analog version already had better spacing.
+I opened and closed those cartridges so many times (to test something, to debug something, to test the fix for the thing I'd just debugged) that I started to resent them, which is a weird way to feel about your own homepage.
 
-The joke stuck. Real life isn't perfect. My site was, and that was the problem.
-
-<Gallery layout="row" caption="">
+<Gallery layout="row" caption="The analog version already had better spacing">
   <img src="/assets/posts/imperfection-analog.jpg" alt="Analog version" width="1920" height="1280" loading="lazy" />
-  <img src="/assets/posts/imperfection-magenta.jpg" alt="First Hero draft" width="1890" height="1404" loading="lazy" />
+  <video src="/assets/posts/imperfection-famicordion.mp4" alt="The Famicordion" width="800" height="720" loading="lazy"></video>
 </Gallery>
 
+So I added a little random rotation, just enough that every click landed a bit differently, mostly so I could stand to look at them. That was supposed to be it. Instead, I started to obsess over giving everything a slightly different angle, a little wobble. Death to the straight line. Make it random.
 
-So I started breaking it on purpose. The cartridges became an accordion, and every time it opens, they land at a slightly different angle. Then came stickers. Anyone who has stuck a sticker on top of another one knows it never lines up. Now it never does, and it misses differently every time. Then I spent an unreasonable number of evenings on frosted plastic. Nobody asked for frosted plastic.
+Then Cursor joined SpaceXAI, which, among many more important things, meant new stickers. Have you ever tried to place a sticker on top of another? It's always a little off. On the cartridge, the black sticker never quite covers the colorful one underneath, it misses differently every time, and I LOVE it.
 
-Along the way, I also answered the question of where "mamuso" comes from: Manuel Muñoz Solera, squished together. And yes, all of this was still happening in short sessions, thirty-five minutes at a time.
+The more imperfect it got, the more it felt like mine (and like me).
 
 
 <Gallery layout="row" columns="2">
-  <img src="/assets/posts/imperfection-frosted.jpg" alt="Frosted materials" width="1920" height="1080" loading="lazy" />
-  <img src="/assets/posts/imperfection-xai.png" alt="xAI imperfection" width="1164" height="1164" loading="lazy" />
-  <video src="/assets/posts/imperfection-famicordion.mp4" alt="The Famicordion" width="800" height="720" loading="lazy"></video>
   <video src="/assets/posts/imperfection-mamuso.mp4" alt="Hero" width="1330" height="720" loading="lazy"></video>
+  <img src="/assets/posts/imperfection-xai.png" alt="xAI imperfection" width="1164" height="1164" loading="lazy" />
+  <img src="/assets/posts/imperfection-frosted.jpg" alt="Frosted materials" width="1920" height="1080" loading="lazy" />
 </Gallery>
 
 ---
