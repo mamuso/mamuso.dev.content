@@ -7,7 +7,7 @@ date: '2026-09-30'
 
 If you're reading this, I regret to inform you that I finally published an update to my personal site. I guess I made it.
 
-This is one of the cases where the journey was a lot better than the destination. To be fair, the destination is a personal site, and I've seen the traffic. Nobody was waiting for this. And I had a blast anyway.
+This is a personal site, and I've seen the traffic. Nobody was waiting for this. And I had a blast anyway.
 
 Fair warning, this is a long one. I needed something to space out the images.
 
@@ -24,13 +24,13 @@ None of this is original. Around 2008, maybe 2009, I spent a lot of time on the 
   <figcaption>A few Famicase entries</figcaption>
 </figure>
 
-Anyway, at the time I was too busy, so the cartridges went on the shelf where I keep the ideas I'll never work on.
+Anyway, at the time I was too busy, so the cartridges went on the shelf where I keep the ideas I'll never work on. It's a big shelf.
 
 ---
 
 ### Creative therapy, but with shaders
 
-Fast-forward to the end of June, my last day at what I considered the best job I'd ever have. I was in London, surrounded by family and friends who were thrilled for me, and I was the only one in the room not having a great time. I felt like I was walking out on an incredible team. I kept replaying months of decisions in my head, and I couldn't shake the feeling that I'd let a bunch of folks down.
+Then it was the end of June, my last day at what I considered the best job I'd ever have. I was in London, surrounded by family and friends who were thrilled for me, and I was the only one in the room not having a great time. I felt like I was walking out on an incredible team. I kept replaying months of decisions in my head, and I couldn't shake the feeling that I'd let a bunch of folks down.
 
 And to be clear, I was (am!) extremely lucky. I had an incredible job waiting for me, and I knew it. My brain just didn't care, and I couldn't feel any of it yet.
 
@@ -40,13 +40,13 @@ I had time on my hands and a perfectly good idea collecting dust on a shelf. So 
 
 ### Felt cute, might share later
 
-Those nights added up, and one day the cartridge escaped Blender and landed on a web page. It was technically lacking but it was "done."
+Those nights added up, and one day the cartridge escaped Blender and landed on a web page. It was technically lacking and about as stiff as a LinkedIn post, but it was "done."
 
-I tried to make a fun label for each job. I still chuckle when I think about the [Windows 95 floppy disk reference](https://archive.org/details/windows-95_202208). Some were easy. But try making Azure DevOps fun as a Famicom label.
+I tried to make a fun label for each job. Some were easy. I'm very proud of the [Windows 95 floppy disk reference](https://archive.org/details/windows-95_202208). Then there was Azure DevOps, which is not a phrase that sounds fun in any font.
 
-I spent a lot of nights trying to make plastic look like plastic. I even tried animating them. In my head, it was a Pixar short, but on screen it was a PowerPoint transition.
+I spent a lot of nights trying to make plastic look like plastic. I even tried animating them, which in my head was a Pixar short and on screen was very much a PowerPoint transition.
 
-None of my experiments were exceptional. And that made it easy to share. Unfinished work is a lot more fun to post. In the end, nobody expects anything from a work in progress.
+None of it was exceptional, which made it very fun and easy to share. Nobody expects anything from a work in progress, including me.
 
 <Gallery layout="row" columns="2" caption="Labels, labels, labels">
   <img src="/assets/posts/imperfection-blender.png" alt="The model in blender" width="1920" height="1080" loading="lazy" />
@@ -55,7 +55,7 @@ None of my experiments were exceptional. And that made it easy to share. Unfinis
   <video src="/assets/posts/imperfection-animated.mp4" alt="Animated labels" width="1280" height="720" loading="lazy"></video>
 </Gallery>
 
-Here's the thing about staring at the same litte idea every night for two weeks: it gets less exciting (I think this is true of most things). I also knew that making it actually run well on a real website, on a real phone, for real people, was going to take way more nights than I had in me. 
+Staring at the same little idea every night for two weeks makes it a lot less exciting (I think this is true of most things). I also knew that making it actually run well on a real website, on a real phone, for real people, was going to take way more nights than I had in me.
 
 On the other hand, a fake Famicom cartridge is a pretty good way to announce a real job. All that work finally had somewhere to go.
 
@@ -69,7 +69,7 @@ On the other hand, a fake Famicom cartridge is a pretty good way to announce a r
 
 If you overshare long enough and your friends are kind enough, you eventually run out of excuses. So I gave in and started turning the cartridges into the hero of the site.
 
-Nobody tells you how unglamorous this part is. Most nights went into making the model smaller and fighting the renderer, which fought back harder than I expected and, honestly, won most rounds. 
+This part was not glamorous. Most nights went into making the model smaller and fighting the renderer, which fought back harder than I expected and, honestly, won most rounds.
 
 I opened and closed those cartridges so many times (to test something, to debug something, to test the fix for the thing I'd just debugged) that I started to resent them, which is a weird way to feel about your own homepage.
 
@@ -105,7 +105,7 @@ So, on your phone, open a cartridge, long-press it, allow the microphone (nothin
 
 <Gallery layout="row" columns="2">
   <video src="/assets/posts/imperfection-mobile.mp4" alt="Mobile" width="720" height="720" loading="lazy"></video>
-  <video src="/assets/posts/imperfection-mobile-2.mp4" alt="Hero" width="1280" height="720" loading="lazy"></video>
+  <video src="/assets/posts/imperfection-mobile-2.mp4" alt="Cartridges on mobile" width="1280" height="720" loading="lazy"></video>
 </Gallery>
 
 
@@ -117,7 +117,7 @@ I'm obsessed with photography, so naturally I started the photo gallery the way 
 
 But then I got drunk on view transitions. And while I was at it, I worked on yet another shader so the little info card next to each photo feels like actual paper. A bit of grain, a crease here, a folded corner there, a dent from who knows what, all slightly different for every photo. Nobody will ever notice it, and I think about it daily.
 
-When I shared it, I got some incredible feedback to make it [more tactile](https://x.com/mamuso/status/2097550338878513302). You can pick the prints up, drag them around, and leave them wherever you want.
+When I shared it, the feedback was clear. It needed to feel [more tactile](https://x.com/mamuso/status/2097550338878513302), like a pile of real prints. Now you can pick the prints up, drag them around, and leave them wherever you want.
 
 It was a really good time.
 
@@ -132,7 +132,7 @@ It was a really good time.
 
 ### Bike shedding and yak shaving
 
-I think by now you figured it out. This site has been done for a while.
+You've probably figured this out by now, but this site has been done for a while.
 
 I started to work on it to stretch some creative muscles and keep my head busy, and it worked a little too well, because once it was done, the fun part was over. It's like getting to the last two episodes of a show you love and starting to ration them. One a week, max, and only if you've earned it.
 
@@ -144,12 +144,12 @@ Splitting photos and notes into their own pages exposed something embarrassing. 
   <img src="/assets/posts/imperfection-left-blank.png" alt="intentionally left blank" width="2004" height="344" loading="lazy" />
 </Gallery>
 
-Then the "more" links needed to be funnier, so I made them funnier. 
+Then the "more" links needed to be funnier, so I made them funnier.
 
-The footer looked a little sad, so now it shows the last song I listened to, so you can judge my poor design and my music taste without having to click a thing. 
+The footer looked a little sad, so now it shows the last song I listened to. You can judge my design and my music taste without clicking a thing.
 
 <Gallery width="text" layout="row">
-  <video src="/assets/posts/imperfection-music.mp4" alt="Hero" width="1200" height="720" loading="lazy"></video>
+  <video src="/assets/posts/imperfection-music.mp4" alt="Footer showing the last song I listened to" width="1200" height="720" loading="lazy"></video>
 </Gallery>
 
 
@@ -157,9 +157,9 @@ And then, of course, OG cards, the little preview image that shows up when you s
 
 <img src="/assets/posts/imperfection-og-images.png" alt="OG images" width="2396" height="1332" loading="lazy" />
 
-Eventually, I ran out of excuses. Again. 
+Eventually, I ran out of excuses. Again.
 
-Making things imperfect turned out to be so much fun that I'm a little sad it's over. The cartridges finally came off the shelf, which means there's an empty spot on it now, and I'm trying very hard not to look at it.
+Making things imperfect was so much fun that I'm a little sad it's over. The cartridges finally came off the shelf, which means there's an empty spot on it now, and I'm trying very hard not to look at it.
 
 If anything on this site stops working, you know what to do.
 
