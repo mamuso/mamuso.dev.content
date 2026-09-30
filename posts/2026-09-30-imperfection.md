@@ -2,12 +2,14 @@
 title: Imperfection
 slug: imperfection
 category: note
-date: '2026-09-29'
+date: '2026-09-30'
 ---
 
 If you're reading this, I regret to inform you that I finally published an update to my personal site. I guess I made it.
 
 This is one of the cases where the journey was a lot better than the destination. To be fair, the destination is a personal site, and I've seen the traffic. Nobody was waiting for this. And I had a blast anyway.
+
+Fair warning, this is a long one. I needed something to space out the images.
 
 ---
 
@@ -78,7 +80,7 @@ I opened and closed those cartridges so many times (to test something, to debug 
 
 So I added a little random rotation, just enough that every click landed a bit differently, mostly so I could stand to look at them. That was supposed to be it. Instead, I started to obsess over giving everything a slightly different angle, a little wobble. Death to the straight line. Make it random.
 
-Then Cursor joined SpaceXAI, which, among many more important things, meant new stickers. Have you ever tried to place a sticker on top of another? It's always a little off. On the cartridge, the black sticker never quite covers the colorful one underneath, it misses differently every time, and I LOVE it.
+Then Cursor joined SpaceXAI, which, among many more important things, meant new stickers! Have you ever tried to place a sticker on top of another? It's always a little off. On the cartridge, the black sticker never quite covers the colorful one underneath, it misses differently every time, and I LOVE it.
 
 The more imperfect it got, the more it felt like mine (and like me).
 
@@ -91,13 +93,28 @@ The more imperfect it got, the more it felt like mine (and like me).
 
 ---
 
-Once the hero was roughly where I wanted it, I moved on to the photo gallery and brought the same rule with me: if it's a photo, it should act like one. Prints pile up, slide around, and never sit perfectly straight. Goncy suggested that the top photo of a stack should follow your cursor, like running a finger over a real pile of prints. I stole that immediately. I also got so into view transitions that I publicly asked someone to take them away from me. Then I opened the site on my phone, had a small crisis, and spent a few more nights making it work there too.
+### Laptop first, laptop second, laptop third
+
+I'd love to tell you I designed this mobile first. I did not. Then one night, weeks into the project, I opened it on my phone and had a small, private crisis.
+
+The composition that looked so good on a laptop did not survive being turned vertical. And it had to work with thumbs, which are a lot less precise and a lot more impatient than a mouse. Tap to open, swipe to the next one, and please, whatever you do, don't hijack the scroll.
+
+Once it worked, the most obvious feature in the world became impossible to ignore. If you grew up with a Nintendo, you know the ritual. The game doesn't start, you pull the cartridge out, you blow on it like it's a birthday cake, you put it back in, and you believe. Everybody did it, nobody remembers who taught them, and it (probably) never helped. [A few people](https://x.com/johnbai/status/2097368445616591278) pointed out that the site should let you do it too, and they were right.
+
+So, on your phone, open a cartridge, long-press it, allow the microphone (nothing gets recorded or sent anywhere, I promise), and blow. Maybe not on the train. The cartridge tilts back and shakes in the wind. Yelling at it works too, which is more than you can say for most software. The results are about as scientific as they were in 1988.
 
 <Gallery layout="row" columns="2">
   <video src="/assets/posts/imperfection-mobile.mp4" alt="Mobile" width="720" height="720" loading="lazy"></video>
   <video src="/assets/posts/imperfection-mobile-2.mp4" alt="Hero" width="1280" height="720" loading="lazy"></video>
 </Gallery>
 
+
+---
+
+
+
+
+Once the hero was roughly where I wanted it, I moved on to the photo gallery and brought the same rule with me: if it's a photo, it should act like one. Prints pile up, slide around, and never sit perfectly straight. Goncy suggested that the top photo of a stack should follow your cursor, like running a finger over a real pile of prints. I stole that immediately. I also got so into view transitions that I publicly asked someone to take them away from me. Then I opened the site on my phone, had a small crisis, and spent a few more nights making it work there too.
 
 
 After that, it was mostly small stuff, my favorite kind. A few people pointed out that you should be able to blow on the cartridges, like with the real ones. They were right, so now you can: long-press a cartridge, allow the microphone, and blow. The results are about as scientific as they were in 1988. The photos on the homepage took a few tries. I started with something big and interactive and landed on something flatter, but still playful. Even the "more" links got some attention.
