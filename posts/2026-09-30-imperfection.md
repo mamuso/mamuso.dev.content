@@ -5,11 +5,9 @@ category: note
 date: '2026-09-30'
 ---
 
-If you're reading this, I regret to inform you that I finally published an update to my personal site. I guess I made it.
+If you're reading this, I regret to inform you that I finally published an update to my personal site. I guess I made it. This is a personal site, and I've seen the traffic. Nobody was waiting for this. And I had a blast anyway.
 
-This is a personal site, and I've seen the traffic. Nobody was waiting for this. And I had a blast anyway.
-
-Fair warning, this is a long one. I needed something to space out the images.
+Fair warning, this is a long post. I needed something to space out the images.
 
 ---
 
@@ -17,7 +15,7 @@ Fair warning, this is a long one. I needed something to space out the images.
 
 A few months ago, I pitched a couple of friends this idea of turning my site into a shelf of fake game cartridges, one per job. They were very supportive, which is exactly what you don't want when you're trying to talk yourself out of something.
 
-None of this is original. Around 2008, maybe 2009, I spent a lot of time on the YayHooray forum, where I found the [My Famicase Exhibition](https://famicase.com/chronicle/index.html). A retro game shop in Tokyo called [METEOR](https://super-meteor.com/) invites designers to make labels for games that don't exist, and picks the best for a show. I never submitted anything, so technically I'm undefeated. Still, for years, every time a Famicase label popped up on Dribbble or Behance, I had to stop and look, like running into an ex who's doing really well. [The exhibition is still going](https://famicase.com/).
+None of this is original. Around 2008, maybe 2009, I spent a lot of time on the YayHooray forum, where I found the [My Famicase Exhibition](https://famicase.com/chronicle/index.html). A retro game shop in Tokyo called [METEOR](https://super-meteor.com/) invites designers to make labels for games that don't exist, and picks the best for a show. I never submitted anything, so technically I'm undefeated. Still, for years, every time a Famicase label popped up on Dribbble or Behance, I had to stop and look. I guess it is like running into an ex who's doing really well. [The exhibition is still going](https://famicase.com/).
 
 <figure>
   <img src="/assets/posts/imperfection-myfamicaseexhibition.png" alt="Sixteen My Famicase Exhibition entries: colorful Famicom cartridges with labels for games that do not exist" width="2398" height="1634" loading="lazy" />
@@ -44,7 +42,7 @@ Those nights added up, and one day the cartridge escaped Blender and landed on a
 
 I tried to make a fun label for each job. Some were easy. I'm very proud of the [Windows 95 floppy disk reference](https://archive.org/details/windows-95_202208). Then there was Azure DevOps, which is not a phrase that sounds fun in any font.
 
-I spent a lot of nights trying to make plastic look like plastic. I even tried animating them, which in my head was a Pixar short and on screen was very much a PowerPoint transition.
+I spent nights trying to make plastic look like plastic. I even tried animating them, which in my head was a Pixar short and on screen was very much a PowerPoint transition.
 
 None of it was exceptional, which made it very fun and easy to share. Nobody expects anything from a work in progress, including me.
 
@@ -99,9 +97,9 @@ I'd love to tell you I designed this mobile first. I did not. Then one night, we
 
 The composition that looked so good on a laptop did not survive being turned vertical. And it had to work with thumbs, which are a lot less precise and a lot more impatient than a mouse. Tap to open, swipe to the next one, and please, whatever you do, don't hijack the scroll.
 
-Once it worked, the most obvious feature in the world became impossible to ignore. If you grew up with a Nintendo, you know the ritual. The game doesn't start, you pull the cartridge out, you blow on it like it's a birthday cake, you put it back in, and you believe. Everybody did it, nobody remembers who taught them, and it (probably) never helped. [A few people](https://x.com/johnbai/status/2097368445616591278) pointed out that the site should let you do it too, and they were right.
+Once I had it working, the most obvious feature in the world became impossible to ignore. If you grew up with a Nintendo, and even if you didn't, you know the ritual. The game doesn't start, you pull the cartridge out, you blow on it like it's a birthday cake, you put it back in, and you believe. Everybody did it, nobody remembers who taught them, and it (probably) never helped. [A few people](https://x.com/johnbai/status/2097368445616591278) pointed out that the site should let you do it too, and they were right.
 
-So, on your phone, open a cartridge, long-press it, allow the microphone (nothing gets recorded or sent anywhere, I promise), and blow. Maybe not on the train. The cartridge tilts back and shakes in the wind. Yelling at it works too, which is more than you can say for most software. The results are about as scientific as they were in 1988.
+So, on your phone, open a cartridge, long-press it, allow the microphone (nothing gets recorded or sent anywhere, I promise), and blow. The cartridge tilts back and shakes in the wind. Yelling at it works too, which is more than you can say for most software. The results are about as scientific as they were in 1988.
 
 <Gallery layout="row" columns="2">
   <video src="/assets/posts/imperfection-mobile.mp4" alt="Mobile" width="720" height="720" loading="lazy"></video>
@@ -117,7 +115,7 @@ I'm obsessed with photography, so naturally I started the photo gallery the way 
 
 But then I got drunk on view transitions. And while I was at it, I worked on yet another shader so the little info card next to each photo feels like actual paper. A bit of grain, a crease here, a folded corner there, a dent from who knows what, all slightly different for every photo. Nobody will ever notice it, and I think about it daily.
 
-When I shared it, the feedback was clear. It needed to feel [more tactile](https://x.com/mamuso/status/2097550338878513302), like a pile of real prints. Now you can pick the prints up, drag them around, and leave them wherever you want.
+When I shared it, the feedback was clear. It needed to feel [more tactile](https://x.com/goncy/status/2097006011961749552?s=20), like a pile of real prints. Now you can pick the prints up, drag them around, and leave them wherever you want.
 
 It was a really good time.
 
@@ -144,7 +142,7 @@ Splitting photos and notes into their own pages exposed something embarrassing. 
   <img src="/assets/posts/imperfection-left-blank.png" alt="intentionally left blank" width="2004" height="344" loading="lazy" />
 </Gallery>
 
-Then the "more" links needed to be funnier, so I made them funnier.
+Then the "more" links [needed to be funnier](https://x.com/pablostanley/status/2100424452362416429), so I made them funnier.
 
 The footer looked a little sad, so now it shows the last song I listened to. You can judge my design and my music taste without clicking a thing.
 
@@ -153,7 +151,7 @@ The footer looked a little sad, so now it shows the last song I listened to. You
 </Gallery>
 
 
-And then, of course, OG cards, the little preview image that shows up when you share a link. No respectable site ships without proper OG cards, right? Right?
+And then, of course, OG cards, the little preview image that shows up when you share a link. No respectable site ships without proper OG cards, right? RIGHT?
 
 <img src="/assets/posts/imperfection-og-images.png" alt="OG images" width="2396" height="1332" loading="lazy" />
 
