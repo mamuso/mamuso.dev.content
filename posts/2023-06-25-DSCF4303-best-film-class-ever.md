@@ -1,4 +1,5 @@
 ---
+slug: 2023-06-25-best-film-class-ever
 title: 'Best. Film Class. Ever!'
 date: '2023-06-25'
 basename: '2023-06-25-DSCF4303.jpg'

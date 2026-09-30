@@ -1,4 +1,5 @@
 ---
+slug: 2023-02-20-hayes-valley
 title: 'Hayes Valley'
 date: '2023-02-20'
 basename: '2023-02-20-DSCF0624.jpg'

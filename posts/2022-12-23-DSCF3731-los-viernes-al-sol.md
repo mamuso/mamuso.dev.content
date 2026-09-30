@@ -1,4 +1,5 @@
 ---
+slug: 2022-12-23-los-viernes-al-sol
 title: 'Los viernes al sol'
 category: photo
 date: '2022-12-23'

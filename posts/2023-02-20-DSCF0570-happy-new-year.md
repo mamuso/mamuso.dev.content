@@ -1,4 +1,5 @@
 ---
+slug: 2023-02-20-happy-new-year
 title: 'Happy new year!'
 date: '2023-02-20'
 basename: '2023-02-20-DSCF0570.jpg'

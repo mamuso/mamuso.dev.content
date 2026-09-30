@@ -1,4 +1,5 @@
 ---
+slug: 2023-09-22-forbidden-pool
 title: 'Forbidden Pool'
 date: '2023-09-22'
 basename: '2023-09-22-DSCF5016.jpg'

@@ -1,4 +1,5 @@
 ---
+slug: 2022-07-07-placebo-umbrella
 title: 'Placebo umbrella'
 date: '2022-07-07'
 basename: '2022-07-07-DSCF6453.jpg'

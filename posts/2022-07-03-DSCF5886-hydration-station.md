@@ -1,4 +1,5 @@
 ---
+slug: 2022-07-03-hydration-station
 title: 'Hydration station'
 date: '2022-07-03'
 basename: '2022-07-03-DSCF5886.jpg'

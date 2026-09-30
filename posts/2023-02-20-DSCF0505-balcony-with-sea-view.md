@@ -1,4 +1,5 @@
 ---
+slug: 2023-02-20-balcony-with-sea-view
 title: 'Balcony with sea view'
 date: '2023-02-20'
 basename: '2023-02-20-DSCF0505.jpg'

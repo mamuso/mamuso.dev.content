@@ -1,4 +1,5 @@
 ---
+slug: 2022-07-16-mars-is-calling
 title: 'Mars is calling'
 date: '2022-07-16'
 basename: '2022-07-16-DSCF6794.jpg'

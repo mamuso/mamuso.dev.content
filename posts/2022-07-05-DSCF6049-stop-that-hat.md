@@ -1,4 +1,5 @@
 ---
+slug: 2022-07-05-stop-that-hat
 title: 'Stop that hat!'
 date: '2022-07-05'
 basename: '2022-07-05-DSCF6049.jpg'

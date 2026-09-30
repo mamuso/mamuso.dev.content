@@ -1,4 +1,5 @@
 ---
+slug: 2023-04-03-oregon-and-washington
 title: 'Oregon & Washington'
 date: '2023-04-03'
 basename: '2023-04-03-DSCF1246.jpg'

@@ -1,4 +1,5 @@
 ---
+slug: 2022-12-23-umbrellas
 title: 'Umbrellas'
 date: '2022-12-23'
 basename: '2022-12-23-DSCF3748.jpg'

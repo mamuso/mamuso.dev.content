@@ -1,4 +1,5 @@
 ---
+slug: 2023-09-22-a-boat-with-views-to-san-francisco
 title: 'A Boat with views to San Francisco'
 date: '2023-09-22'
 basename: '2023-09-22-DSCF4918.jpg'

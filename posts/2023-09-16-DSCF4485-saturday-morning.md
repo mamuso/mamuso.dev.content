@@ -1,4 +1,5 @@
 ---
+slug: 2023-09-16-saturday-morning
 title: 'Saturday Morning'
 date: '2023-09-16'
 basename: '2023-09-16-DSCF4485.jpg'

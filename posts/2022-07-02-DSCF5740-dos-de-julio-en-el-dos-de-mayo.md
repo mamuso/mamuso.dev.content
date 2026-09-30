@@ -1,4 +1,5 @@
 ---
+slug: 2022-07-02-dos-de-julio-en-el-dos-de-mayo
 title: 'Dos de Julio en el Dos de Mayo'
 date: '2022-07-02'
 basename: '2022-07-02-DSCF5740.jpg'
