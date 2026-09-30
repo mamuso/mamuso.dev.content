@@ -111,17 +111,15 @@ So, on your phone, open a cartridge, long-press it, allow the microphone (nothin
 
 ---
 
+### Paper cuts
 
+I'm obsessed with photography, so naturally I started the photo gallery the way I start anything I'm a little nervous about, which is by making it extremely boring. A grid, some stacks. Very respectable. It looked like the photo section of a hotel website.
 
+But then I got drunk on view transitions. And while I was at it, I worked on yet another shader so the little info card next to each photo feels like actual paper. A bit of grain, a crease here, a folded corner there, a dent from who knows what, all slightly different for every photo. Nobody will ever notice it, and I think about it daily.
 
-Once the hero was roughly where I wanted it, I moved on to the photo gallery and brought the same rule with me: if it's a photo, it should act like one. Prints pile up, slide around, and never sit perfectly straight. Goncy suggested that the top photo of a stack should follow your cursor, like running a finger over a real pile of prints. I stole that immediately. I also got so into view transitions that I publicly asked someone to take them away from me. Then I opened the site on my phone, had a small crisis, and spent a few more nights making it work there too.
+When I shared it, I got some incredible feedback to make it [more tactile](https://x.com/mamuso/status/2097550338878513302). You can pick the prints up, drag them around, and leave them wherever you want.
 
-
-After that, it was mostly small stuff, my favorite kind. A few people pointed out that you should be able to blow on the cartridges, like with the real ones. They were right, so now you can: long-press a cartridge, allow the microphone, and blow. The results are about as scientific as they were in 1988. The photos on the homepage took a few tries. I started with something big and interactive and landed on something flatter, but still playful. Even the "more" links got some attention.
-
-Splitting photos and notes also exposed something: I hadn't written anything in two years. The least I could do was make the gap look intentional.
-
-
+It was a really good time.
 
 <Gallery layout="row" columns="2">
   <video src="/assets/posts/imperfection-stack.mp4" alt="Photo stacks" width="1630" height="1400" loading="lazy"></video>
@@ -132,17 +130,38 @@ Splitting photos and notes also exposed something: I hadn't written anything in 
 
 ---
 
-At that point, the only things left were the OG images and this post. So, obviously, I took another detour and used Apple MusicKit to build something silly and completely unnecessary.
+### Bike shedding and yak shaving
 
-<Gallery layout="row" columns="2">
-  <img src="/assets/posts/imperfection-og-images.png" alt="OG images" width="2396" height="1332" loading="lazy" />
+I think by now you figured it out. This site has been done for a while.
+
+I started to work on it to stretch some creative muscles and keep my head busy, and it worked a little too well, because once it was done, the fun part was over. It's like getting to the last two episodes of a show you love and starting to ration them. One a week, max, and only if you've earned it.
+
+So I did what any reasonable person would do, which is invent reasons to keep going.
+
+Splitting photos and notes into their own pages exposed something embarrassing. I hadn't written anything on this site in two years. Two! The notes section looked like an apartment where someone had clearly moved out and left the lights on. The least I could do was make the gap look intentional.
+
+<Gallery width="text" layout="row">
+  <img src="/assets/posts/imperfection-left-blank.png" alt="intentionally left blank" width="2004" height="344" loading="lazy" />
+</Gallery>
+
+Then the "more" links needed to be funnier, so I made them funnier. 
+
+The footer looked a little sad, so now it shows the last song I listened to, so you can judge my poor design and my music taste without having to click a thing. 
+
+<Gallery width="text" layout="row">
   <video src="/assets/posts/imperfection-music.mp4" alt="Hero" width="1200" height="720" loading="lazy"></video>
 </Gallery>
 
 
-Making things imperfect turned out to be so much fun that I was a little sad to finish. But the OG images are done, and you're reading the post.
+And then, of course, OG cards, the little preview image that shows up when you share a link. No respectable site ships without proper OG cards, right? Right?
 
-Thanks for reading.
+<img src="/assets/posts/imperfection-og-images.png" alt="OG images" width="2396" height="1332" loading="lazy" />
+
+Eventually, I ran out of excuses. Again. 
+
+Making things imperfect turned out to be so much fun that I'm a little sad it's over. The cartridges finally came off the shelf, which means there's an empty spot on it now, and I'm trying very hard not to look at it.
+
+If anything on this site stops working, you know what to do.
 
 ---
 
