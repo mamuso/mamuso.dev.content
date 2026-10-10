@@ -20,7 +20,7 @@ I kept going back, obviously. I knew where everything was. At some point I reali
 There was no breaking point. I just slowly became aware that I was dreading a website whose entire job was to let me copy a triangle.
 
 <figure>
-  <img src="/assets/posts/a-little-bit-of-character-ads.png" alt="A Unicode character website buried under banner ads, an autoplaying video and a cookie popup" width="3428" height="2334" loading="lazy" />
+  <img src="/assets/posts/a-little-bit-of-character-1157ddb2.png" alt="A Unicode character website buried under banner ads, an autoplaying video and a cookie popup" width="3428" height="2334" loading="lazy" />
   <figcaption>If Times Square and Piccadilly Circus had a baby</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ The database took a few hours. The interface, though... I’m told dinner was lo
 I wanted each character to show enough to be useful, and I wanted getting around to be a little fun. A grid was the sensible answer; I’ll probably end up making one anyway. But a grid felt like a spreadsheet with better posture, which is a rich complaint from a guy who built a whole website so he could copy an arrow and leave.
 
 <figure>
-  <img src="/assets/posts/a-little-bit-of-character-grid.png" alt="An early version of unicodekit: an empty grid of character boxes under the heading All characters" width="3428" height="2334" loading="lazy" />
+  <img src="/assets/posts/a-little-bit-of-character-1c8ce2ec.png" alt="An early version of unicodekit: an empty grid of character boxes under the heading All characters" width="3428" height="2334" loading="lazy" />
   <figcaption>A broken site: August 2nd, 2026</figcaption>
 </figure>
 
@@ -44,8 +44,8 @@ So I followed the masters, respectfully. The whole site is two columns (one on y
 You get around with the arrow keys. Find what you want, hit enter, and it’s on your clipboard. Every character also has its own page, so if you only ever need →, you can bookmark it and never see my homepage again. I’d consider that a five-star review.
 
 <Gallery layout="row" columns="2" caption="up, down, left, right">
-  <img src="/assets/posts/a-little-bit-of-character-mobile.png" alt="unicodekit on a phone: a terminal-style list of arrows and block characters with a detail panel for LIGHT SHADE" width="1179" height="2556" loading="lazy" />
-  <video src="/assets/posts/a-little-bit-of-character-keyboard.mp4" alt="Moving around unicodekit with the arrow keys" width="1920" height="1080" loading="lazy"></video>
+  <img src="/assets/posts/a-little-bit-of-character-13549fc1.png" alt="unicodekit on a phone: a terminal-style list of arrows and block characters with a detail panel for LIGHT SHADE" width="1179" height="2556" loading="lazy" />
+  <video src="/assets/posts/a-little-bit-of-character-cb538ed0.mp4" alt="Moving around unicodekit with the arrow keys" width="1920" height="1080" loading="lazy"></video>
 </Gallery>
 
 For a website with a projected audience of one, it was a runaway success. Search was terrible, though. You could hide a body in there and nobody would ever find it, including me.
@@ -57,7 +57,7 @@ A friend reminded me of [this recent post from Max Leiter](https://x.com/maxleit
 I got a little carried away. Type “triforce” and you get ▲. Type 箭头, Chinese for “arrow,” and you get →. Type “dunder mifflin” and you get 👔🏢.
 
 <Gallery layout="row" width="text" caption="ET the extraterrestrial would be proud">
-  <video src="/assets/posts/a-little-bit-of-character-search.mp4" alt="Searching unicodekit by description" width="1728" height="1080" loading="lazy"></video>
+  <video src="/assets/posts/a-little-bit-of-character-100b1fc9.mp4" alt="Searching unicodekit by description" width="1728" height="1080" loading="lazy"></video>
 </Gallery>
 
 Anyway, the old site is still out there. I checked on it last week, the way you look up an ex, and it has a fourth banner now. I hope they’re very happy together.
