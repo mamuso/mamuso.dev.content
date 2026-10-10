@@ -43,8 +43,10 @@ So I followed the masters, respectfully. The whole site is two columns (one on y
 
 You get around with the arrow keys. Find what you want, hit enter, and it’s on your clipboard. Every character also has its own page, so if you only ever need →, you can bookmark it and never see my homepage again. I’d consider that a five-star review.
 
-<!-- TODO image 3: up, down, left, right -->
-*(up, down, left, right)*
+<Gallery layout="row" columns="2" caption="up, down, left, right">
+  <img src="/assets/posts/a-little-bit-of-character-mobile.png" alt="unicodekit on a phone: a terminal-style list of arrows and block characters with a detail panel for LIGHT SHADE" width="1179" height="2556" loading="lazy" />
+  <video src="/assets/posts/a-little-bit-of-character-keyboard.mp4" alt="Moving around unicodekit with the arrow keys" width="1920" height="1080" loading="lazy"></video>
+</Gallery>
 
 For a website with a projected audience of one, it was a runaway success. Search was terrible, though. You could hide a body in there and nobody would ever find it, including me.
 
