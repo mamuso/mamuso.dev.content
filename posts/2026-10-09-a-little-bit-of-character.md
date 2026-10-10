@@ -56,8 +56,9 @@ A friend reminded me of [this recent post from Max Leiter](https://x.com/maxleit
 
 I got a little carried away. Type “triforce” and you get ▲. Type 箭头, Chinese for “arrow,” and you get →. Type “dunder mifflin” and you get 👔🏢.
 
-<!-- TODO image 4: ET the extraterrestrial would be proud -->
-*(ET the extraterrestrial would be proud)*
+<Gallery layout="row" width="text" caption="ET the extraterrestrial would be proud">
+  <video src="/assets/posts/a-little-bit-of-character-search.mp4" alt="Searching unicodekit by description" width="1728" height="1080" loading="lazy"></video>
+</Gallery>
 
 Anyway, the old site is still out there. I checked on it last week, the way you look up an ex, and it has a fourth banner now. I hope they’re very happy together.
 
