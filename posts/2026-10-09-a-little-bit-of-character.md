@@ -24,7 +24,7 @@ There was no breaking point. I just slowly became aware that I was dreading a we
   <figcaption>If Times Square and Piccadilly Circus had a baby</figcaption>
 </figure>
 
-The ✌️✌️obvious✌️✌️ solution was to never visit that site again and build my own. In my head it was two problems: build a database of characters, then find a nice way to move around it. I planned it with the confidence of every side project ever. The database was clearly the monster: every assigned character in Unicode, roughly 160,000 of them, with names and codepoints and all the boring bits. The interface was some boxes on a page. Done by dinner.
+The ✌️✌️obvious solution✌️✌️ was to never visit that site again and build my own. In my head it was two problems: build a database of characters, then find a nice way to move around it. I planned it with the confidence of every side project ever. The database was clearly the monster: every assigned character in Unicode, roughly 160,000 of them, with names and codepoints and all the boring bits. The interface was some boxes on a page. Done by dinner.
 
 The database took a few hours. The interface, though... I’m told dinner was lovely.
 
