@@ -66,7 +66,7 @@ Why Control + Option + F18? Your keyboard doesn't have an F18. Nobody's does. No
 
 <Gallery layout="row">
   <img src="/assets/posts/push-to-talk-03.png" alt="Wispr Flow’s hands-free shortcut set to Control + Option + F18" width="2716" height="1936" />
-  <video src="/assets/posts/push-to-talk-demo.mp4" width="1920" height="1080" controls></video>
+  <video src="/assets/posts/push-to-talk-demo.mp4" width="1920" height="1080"></video>
 </Gallery>
 
 That's it. Your keyboard has entered early retirement. (It hasn't. I still type my some of my passwords.)
